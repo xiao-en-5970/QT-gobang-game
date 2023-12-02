@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>res-music/playing.mp3</file>
-        <file>res-music/playing.wav</file>
-        <file>res-music/playing_01.wav</file>
-    </qresource>
-</RCC>
